@@ -1,4 +1,4 @@
-# webapp 相关技术介绍
+# webapp 相关框架介绍
    移动app，hybrid app，native-rect app
 
 ### [nodejs](https://nodejs.org/) 
